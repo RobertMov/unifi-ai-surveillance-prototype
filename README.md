@@ -1,6 +1,9 @@
 # UniFi AI Surveillance Prototype
 
 Proiect realizat pentru practica de domeniu - Universitatea din Craiova.
+Student : Movileanu Robert-Marian
+Prof. Indrumator : Hurezeanu Bogdan
+
 Aplicatia reprezinta un prototip software pentru simularea capabilitatilor de Edge AI dintr-un sistem de supraveghere bazat pe arhitectura Ubiquiti UniFi Protect.
 
 ## Arhitectura sistemului
