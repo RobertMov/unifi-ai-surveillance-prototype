@@ -1,6 +1,7 @@
 # UniFi AI Surveillance Prototype
 
 Proiect realizat pentru practica de domeniu - Universitatea din Craiova.
+
 Student : Movileanu Robert-Marian
 Prof. Indrumator : Hurezeanu Bogdan
 
