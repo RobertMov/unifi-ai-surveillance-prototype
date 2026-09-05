@@ -78,12 +78,12 @@ if uploaded_video is not None:
 
         # Afisare cadru procesat
         frame_rgb = cv2.cvtColor(frame_out, cv2.COLOR_BGR2RGB)
-        video_placeholder.image(frame_rgb, channels="RGB", use_container_width=True)
+        video_placeholder.image(frame_rgb, channels="RGB", width="stretch")
 
         # Actualizare tabel evenimente
         if len(event_list) > 0:
             df = pd.DataFrame(event_list[:10])
-            logs_placeholder.dataframe(df, use_container_width=True)
+            logs_placeholder.dataframe(df, width="stretch")
 
     cap.release()
 else:
