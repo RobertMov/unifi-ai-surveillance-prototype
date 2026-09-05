@@ -2,7 +2,7 @@
 
 Proiect realizat pentru practica de domeniu - Universitatea din Craiova.
 
-Student : Movileanu Robert-Marian
+Student : Movileanu Robert-Marian ( AIA 2.3A )
 
 Prof. Indrumator : Hurezeanu Bogdan
 
